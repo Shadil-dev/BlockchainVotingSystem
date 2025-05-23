@@ -1,1 +1,1 @@
-# SimpleBlockchainVotingSystem
+Decentralised Voting System using Blockchain
